@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="200" height="150" border="10px"></img>
     <h1 align="center">Hi 🖖, I'm Agustin Andrada </h1>
     <h2 align="center">A passionate full stack developer from Argentina and scout leader</h2>
 <div id="badges" align="center" >
