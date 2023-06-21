@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img alt="gif" src="https://media.giphy.com/media/etn52ENYVnpxqMaXiT/giphy.gif" width="200">
+    <img alt="gif" src="https://media.giphy.com/media/etn52ENYVnpxqMaXiT/giphy.gif" width="200" auto-paly="true">
     <h1 align="center">Hi 🖖, I'm Agustin Andrada </h1>
     <h2 align="center">A passionate full stack developer from Argentina and scout leader</h2>
 <div id="badges" align="center" >
