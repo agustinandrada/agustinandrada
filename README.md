@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img alt="gif" src="https://media.giphy.com/media/etn52ENYVnpxqMaXiT/giphy.gif" width="200" auto-paly="true">
     <h1 align="center">Hi 🖖, I'm Agustin Andrada </h1>
+<div/>
 <div id="badges" align="center" >
      <a href="https://www.linkedin.com/in/agustin-andrada-928a87127/" target="_blank">
         <img alt="Linkedin URL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5iJLydkS-Rpg8vuFF04qj48NnbRJb89d9dARmK4uaj4gK5YL&s" width="20" height="20">
@@ -25,16 +26,14 @@
     <h2>- 📈 I am excited to continue growing professionally and face new challenges in the field of full-stack programming. </h2>
 </div>
 
-<div>
-    <h2>
-        ### 📊 My Stats :
+---
+### 📊 My Stats :
 
         
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agustinandrada&theme=dark&hide_border=true&border_radius=6&mode=weekly&sideNums=EB7017&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agustinandrada&theme=dark&hide_border=true&border_radius=6&mode=weekly&sideNums=EB7017&fire=EB5454)](https://git.io/streak-stats)
         
-        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinandrada&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinandrada&show_icons=true&theme=radical)
 
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinandrada&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    </h2>
-</div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinandrada&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
