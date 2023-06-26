@@ -13,19 +13,17 @@
         <img alt="instagram URL" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="20" height="20">
     </a>
 </div>
-    <div>
-    <h2>- 🚀 I am a passionate full-stack programmer with a strong background in web development with a background in materials
+ 
+- 🚀 I am a passionate full-stack programmer with a strong background in web development with a background in materials
             engineering, chemistry, and scout leadership that helped me work in teams, analyze massive data, manage groups, and
-            problem-solve. </h2>
-    <h2>- 💻 My main focus is to provide high-quality and efficient technical solutions. Specialized in Back-end.
+            problem-solve. 
+- 💻 My main focus is to provide high-quality and efficient technical solutions. Specialized in Back-end.
             Knowledge of agile methodologies, GIT, data structure, algorithms, CSS frameworks. I have experience in Front End and
-            Back End development, data architecture with HTML5, CSS3, JavaScript, React, Node.js, SQL and NoSQL.</h2>
-    <h2>- 🤝 I am an effective communicator and enjoy working as a team, collaborating with designers, developers and other
+            Back End development, data architecture with HTML5, CSS3, JavaScript, React, Node.js, SQL and NoSQL.
+- 🤝 I am an effective communicator and enjoy working as a team, collaborating with designers, developers and other
             professionals to create exceptional products. I am a constant learner and always looking to stay up to date with the latest
-            trends and technologies in the world of web development.</h2>
-    <h2>- 📈 I am excited to continue growing professionally and face new challenges in the field of full-stack programming. </h2>
-</div>
-
+            trends and technologies in the world of web development.
+- 📈 I am excited to continue growing professionally and face new challenges in the field of full-stack programming.
 ---
 ### 📊 My Stats :
 
